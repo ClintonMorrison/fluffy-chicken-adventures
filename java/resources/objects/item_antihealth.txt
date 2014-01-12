@@ -1,0 +1,17 @@
+Object: Item
+
+#  GENERAL
+Name: health_boost
+
+#  ANIMATIONS
+#Animation - idle
+Animation1: /resources/objects/animation_antihealth.txt
+
+#  SOUND EFFECTS
+#Sound1 - collected
+Sound1: /resources/sounds/pickup2.wav
+
+#  EFFECTS
+Magnitude: -100
+Duration: 0
+Type: RESTORE_HEALTH

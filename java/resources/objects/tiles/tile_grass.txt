@@ -1,0 +1,7 @@
+Object: Tile
+
+#Tile Description
+Name: grass_tile
+Image: /resources/images/tile_grass.png
+Type: SOLID
+Damage: 0

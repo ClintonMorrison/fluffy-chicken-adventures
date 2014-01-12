@@ -1,0 +1,5 @@
+To play the game, simply run index.html.
+
+Note that because of Java security settings,
+unsigned applets often are not allowed to 
+run when loaded locally from a computer.

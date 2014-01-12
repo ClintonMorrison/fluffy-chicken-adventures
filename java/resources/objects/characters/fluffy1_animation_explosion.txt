@@ -1,0 +1,22 @@
+Object: Animation
+
+#General
+Loops: false
+
+#FRAMES
+#Frame1
+Frame1_Image: /resources/images/explosion1.png
+Frame1_Time: 100
+
+#Frame2
+Frame2_Image: /resources/images/explosion2.png
+Frame2_Time: 100
+
+#Frame3
+Frame3_Image: /resources/images/explosion3.png
+Frame3_Time: 100
+
+#Frame4
+Frame4_Image: /resources/images/explosion4.png
+Frame4_Time: 100
+

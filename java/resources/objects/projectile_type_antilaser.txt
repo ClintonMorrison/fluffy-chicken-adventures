@@ -1,0 +1,24 @@
+Object: ProjectileType
+
+#  ANIMATIONS
+#Animation - Facing right
+Animation1: /resources/objects/animation_antilaser.txt
+
+#Animation - Facing left
+Animation2: /resources/objects/animation_antilaser.txt
+
+#Animation - Exploding/hit
+Animation3: /resources/objects/animation_antilaser.txt
+
+
+#  SOUND EFFECTS
+#Sound1 - Launch
+Sound1: /resources/sounds/laser_fire.wav
+
+#Sound2 - Explode
+Sound2: /resources/sounds/bawk.wav
+
+#  STATS
+MaxSpeed: 1.0
+Damage: 80.0
+CoolOff: 200

@@ -1,0 +1,37 @@
+Object: Animation
+
+#General
+Loops: true
+
+#FRAMES
+#Frame1
+Frame1_Image: /resources/images/coin1.png
+Frame1_Time: 50
+
+#Frame2
+Frame2_Image: /resources/images/coin2.png
+Frame2_Time: 50
+
+#Frame3
+Frame3_Image: /resources/images/coin3.png
+Frame3_Time: 50
+
+#Frame4
+Frame4_Image: /resources/images/coin4.png
+Frame4_Time: 50
+
+#Frame5
+Frame5_Image: /resources/images/coin5.png
+Frame5_Time: 50
+
+#Frame6
+Frame6_Image: /resources/images/coin6.png
+Frame6_Time: 50
+
+#Frame7
+Frame7_Image: /resources/images/coin7.png
+Frame7_Time: 50
+
+#Frame8
+Frame8_Image: /resources/images/coin8.png
+Frame8_Time: 50

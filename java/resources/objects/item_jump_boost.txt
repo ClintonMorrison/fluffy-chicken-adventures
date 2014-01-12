@@ -1,0 +1,17 @@
+Object: Item
+
+#  GENERAL
+Name: jump_boost
+
+#  ANIMATIONS
+#Animation - idle
+Animation1: /resources/objects/animation_jump_boost.txt
+
+#  SOUND EFFECTS
+#Sound1 - collected
+Sound1: /resources/sounds/pickup1.wav
+
+#  EFFECTS
+Magnitude: 0.25
+Duration: 8000
+Type: INCREASE_JUMP_SPEED

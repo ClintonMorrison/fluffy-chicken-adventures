@@ -1,0 +1,7 @@
+Object: LabelType
+
+#Description
+FontName: Monospaced
+FontStyle: 0
+FontSize: 13
+FontColor: WHITE

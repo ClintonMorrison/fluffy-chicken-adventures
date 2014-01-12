@@ -4,11 +4,12 @@ fluffy-chicken-adventures
 
 
 <h2> About </h2>
-<p> This Java applet is a side scrolling platformer game. The game follows the bizare adventures of a fluffy chicken. It contains a wide variety of different levels, sound effects, and enemies. The game difficulty and sound can be toggled in the menu. The game was developed by Clinton Morrison in June 2013. </p>
+<p> This Java applet is a side scrolling platform game. The game follows the bizarre adventures of a fluffy chicken. It contains a wide variety of different levels, sound effects, and enemies. The game difficulty and sound can be toggled in the menu. The game was developed by Clinton Morrison in June 2013. </p>
 
 <h2> Where to Play </h2>
 <p> The game can be played at <a href="http://clintonmorrison.com/projects/fluffy-chicken-adventures.html"> 
-here</a>. Alternatively, the source code can be compiled and packaged in a JAR file. The applet should be
+here</a>. The game can also be played by running index.html in the game folder. 
+Alternatively, the source code can be compiled and packaged in a JAR file. The applet should be
 displayed in a 500x1000 window.
 </p>
 

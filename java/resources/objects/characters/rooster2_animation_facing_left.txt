@@ -1,0 +1,9 @@
+Object: Animation
+
+#General
+Loops: true
+
+#FRAMES
+#Frame1
+Frame1_Image: /resources/images/rooster2_facing_left.png
+Frame1_Time: 100

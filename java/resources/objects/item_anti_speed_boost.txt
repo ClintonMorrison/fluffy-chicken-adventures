@@ -1,0 +1,17 @@
+Object: Item
+
+#  GENERAL
+Name: speed_boost
+
+#  ANIMATIONS
+#Animation - idle
+Animation1: /resources/objects/animation_antibolt.txt
+
+#  SOUND EFFECTS
+#Sound1 - collected
+Sound1: /resources/sounds/pickup1.wav
+
+#  EFFECTS
+Magnitude: -0.5
+Duration: 6000
+Type: INCREASE_WALK_SPEED

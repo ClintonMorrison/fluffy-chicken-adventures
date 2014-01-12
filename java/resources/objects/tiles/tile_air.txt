@@ -1,0 +1,7 @@
+Object: Tile
+
+#Tile Description
+Name: grass_air
+Image: /resources/images/tile_air.png
+Type: AIR
+Damage: 0

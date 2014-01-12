@@ -1,0 +1,23 @@
+Object: ProjectileType
+
+#  ANIMATIONS
+#Animation - Facing right
+Animation1: /resources/objects/animation_snailbomb.txt
+
+#Animation - Facing left
+Animation2: /resources/objects/animation_snailbomb.txt
+
+#Animation - Exploding/hit
+Animation3: /resources/objects/animation_laser.txt
+
+#  SOUND EFFECTS
+#Sound1 - Launch
+Sound1: /resources/sounds/snailbomb.wav
+
+#Sound2 - Explode
+Sound2: /resources/sounds/bawk.wav
+
+#  STATS
+MaxSpeed: 0.5
+Damage: 100.0
+CoolOff: 500

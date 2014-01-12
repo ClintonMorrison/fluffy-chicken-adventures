@@ -1,0 +1,46 @@
+Object: Menu
+
+#Note -> Position is percentage of window size (between 0 and 1)
+
+# Label1 - TITLE
+Label1_Text: FLUFFY CHICKEN ADVENTURES
+Label1_Font: /resources/objects/font_title.txt
+Label1_Position_X: 0.5
+Label1_Position_Y: 0.1
+
+# Label2 - Copyright credit
+Label2_Text: © 2013 Clinton Morrison
+Label2_Font: /resources/objects/font_copyright.txt
+Label2_Position_X: 0.9
+Label2_Position_Y: 0.97
+
+# Label3 - Version 
+Label3_Text: Version 1.06
+Label3_Font: /resources/objects/font_copyright.txt
+Label3_Position_X: 0.05
+Label3_Position_Y: 0.97
+
+# BUTTON1 - PLAY
+Button1_Text: Play Now
+Button1_Type: /resources/objects/button1.txt
+Button1_Position_X: 0.5
+Button1_Position_Y: 0.3
+
+# BUTTON2 - INSTRUCTIONS
+Button2_Text: Instructions
+Button2_Type: /resources/objects/button1.txt
+Button2_Position_X: 0.5
+Button2_Position_Y: 0.5
+
+# BUTTON3 - SETTINGS
+Button3_Text: Settings
+Button3_Type: /resources/objects/button1.txt
+Button3_Position_X: 0.5
+Button3_Position_Y: 0.7
+
+
+# BUTTON4 - CREDITS
+Button4_Text: Credits
+Button4_Type: /resources/objects/button1.txt
+Button4_Position_X: 0.5
+Button4_Position_Y: 0.9

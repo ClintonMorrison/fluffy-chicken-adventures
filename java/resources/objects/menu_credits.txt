@@ -1,0 +1,88 @@
+Object: Menu
+
+#Note -> Position is percentage of window size (between 0 and 1)
+
+# Label1 - TITLE
+Label1_Text: CREDITS
+Label1_Font: /resources/objects/font_title.txt
+Label1_Position_X: 0.5
+Label1_Position_Y: 0.05
+
+# Button1 - RETURN TO MAIN MENU
+Button1_Text: Back
+Button1_Type: /resources/objects/button1.txt
+Button1_Position_X: 0.9
+Button1_Position_Y: 0.95
+
+# Label8 - Programming and design
+Label8_Text: -- PROGRAMMING AND DESIGN --
+Label8_Font: /resources/objects/font_body.txt
+Label8_Position_X: 0.5
+Label8_Position_Y: 0.15
+
+# Label2 - Programming and design
+Label2_Text: Programming and design by Clinton Morrison
+Label2_Font: /resources/objects/font_body.txt
+Label2_Position_X: 0.5
+Label2_Position_Y: 0.2
+
+# Label13 - Design and testing
+Label13_Text: Game testing and design by Zachary Morrison
+Label13_Font: /resources/objects/font_body.txt
+Label13_Position_X: 0.5
+Label13_Position_Y: 0.25
+
+# Label6 - SOUNDS
+Label6_Text: -- SOUND --
+Label6_Font: /resources/objects/font_body.txt
+Label6_Position_X: 0.5
+Label6_Position_Y: 0.35
+
+# Label3 - SOUNDS
+Label3_Text: Taken from WavSource, SoundDogs, SoundBible, FreeSound, and FlashKit
+Label3_Font: /resources/objects/font_body.txt
+Label3_Position_X: 0.5
+Label3_Position_Y: 0.4
+
+# Label4 - SOUND AUTHORS
+Label4_Text: Sounds by thecheeseman, ecfike, Surround Yokota, Intermedia Design Graphics, 
+Label4_Font: /resources/objects/font_body.txt
+Label4_Position_X: 0.5
+Label4_Position_Y: 0.45
+
+# Label11 - MORE AUTHORS
+Label11_Text: sarge4267, jivatma07, AdamWeeden, Julien Matthey, and Milton
+Label11_Font: /resources/objects/font_body.txt
+Label11_Position_X: 0.5
+Label11_Position_Y: 0.5
+
+# Label5 - SOUNDS
+Label5_Text: Also produced using http://www.bfxr.net/, created by Stephen Lavelle
+Label5_Font: /resources/objects/font_body.txt
+Label5_Position_X: 0.5
+Label5_Position_Y: 0.55
+
+# Label7 - ART
+Label7_Text: -- ART --
+Label7_Font: /resources/objects/font_body.txt
+Label7_Position_X: 0.5
+Label7_Position_Y: 0.65
+
+
+# Label9 - ART
+Label9_Text: Taken from WikiMedia, OpenGameArt, OpenClipArt, DeviantArt
+Label9_Font: /resources/objects/font_body.txt
+Label9_Position_X: 0.5
+Label9_Position_Y: 0.7
+
+# Label10 - ART AUTHORS
+Label10_Text: Images by C. Nilsson, Savino, T-i-n-a, Alucard, Massimo, AndreeWallin, ElenaKalis
+Label10_Font: /resources/objects/font_body.txt
+Label10_Position_X: 0.5
+Label10_Position_Y: 0.75
+
+# Label12 - MORE ART AUTHORS
+Label12_Text: mjagiellicz, jamajurabaev, Jonas Wagner, NewCastleMale, b1nd1, scorpio, b1nd1
+Label12_Font: /resources/objects/font_body.txt
+Label12_Position_X: 0.5
+Label12_Position_Y: 0.80

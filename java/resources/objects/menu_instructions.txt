@@ -1,0 +1,65 @@
+Object: Menu
+
+#Note -> Position is percentage of window size (between 0 and 1)
+
+# Label1 - TITLE
+Label1_Text: INSTRUCTIONS
+Label1_Font: /resources/objects/font_title.txt
+Label1_Position_X: 0.5
+Label1_Position_Y: 0.1
+
+# Button1 - RETURN TO MAIN MENU
+Button1_Text: Back
+Button1_Type: /resources/objects/button1.txt
+Button1_Position_X: 0.9
+Button1_Position_Y: 0.95
+
+# Label8 - CONTROLS
+Label8_Text: -- CONTROLS --
+Label8_Font: /resources/objects/font_body.txt
+Label8_Position_X: 0.5
+Label8_Position_Y: 0.20
+
+# Label2 - CONTROLS
+Label2_Text: Use the arrow keys to move your chicken. Press space to fire lasers from your eyes. 
+Label2_Font: /resources/objects/font_body.txt
+Label2_Position_X: 0.5
+Label2_Position_Y: 0.25
+
+
+# Label6 - GOAL
+Label6_Text: -- GOAL --
+Label6_Font: /resources/objects/font_body.txt
+Label6_Position_X: 0.5
+Label6_Position_Y: 0.40
+
+# Label3 - GOAL
+Label3_Text: Collect the golden fluffy chicken trophy at the end of every level.
+Label3_Font: /resources/objects/font_body.txt
+Label3_Position_X: 0.5
+Label3_Position_Y: 0.45
+
+# Label4 - THINGS TO COLLECT
+Label4_Text: -- THINGS TO COLLECT -- 
+Label4_Font: /resources/objects/font_body.txt
+Label4_Position_X: 0.5
+Label4_Position_Y: 0.6
+
+# Label5 - THINGS TO COLLECT
+Label5_Text: Collect coins, lightning bolts, feathers, and hearts.
+Label5_Font: /resources/objects/font_body.txt
+Label5_Position_X: 0.5
+Label5_Position_Y: 0.65
+
+# Label7 - ART
+Label7_Text: -- THINGS TO AVOID --
+Label7_Font: /resources/objects/font_body.txt
+Label7_Position_X: 0.5
+Label7_Position_Y: 0.8
+
+
+# Label9 - ART
+Label9_Text: Lasers from enemies, crabs, and bombs will all hurt your chicken.
+Label9_Font: /resources/objects/font_body.txt
+Label9_Position_X: 0.5
+Label9_Position_Y: 0.85

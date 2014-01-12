@@ -1,0 +1,21 @@
+Object: Button
+
+#Dimensions
+Width: 55
+Height: 30
+
+#Font
+FontName: Monospaced
+FontStyle: 0
+FontSize: 15
+FontColor: WHITE
+
+#Apperance
+BorderWidth: 2
+InteriorColor: BLACK
+BorderColor: WHITE
+HighlightedBorderColor: BLUE
+
+#Sounds
+SoundSelected: /resources/sounds/button_select.wav
+SoundClicked: /resources/sounds/button_click.wav

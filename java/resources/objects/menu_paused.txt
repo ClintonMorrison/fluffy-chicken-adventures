@@ -1,0 +1,15 @@
+Object: Menu
+
+#Note -> Position is percentage of window size (between 0 and 1)
+
+# Label1 - PAUSED
+Label1_Text: P A U S E D
+Label1_Font: /resources/objects/font_paused.txt
+Label1_Position_X: 0.5
+Label1_Position_Y: 0.5
+
+# Button1 - Resume game
+Button1_Text: Resume
+Button1_Type: /resources/objects/button1.txt
+Button1_Position_X: 0.5
+Button1_Position_Y: 0.75

@@ -1,0 +1,7 @@
+Object: Tile
+
+#Tile Description
+Name: grass_top
+Image: /resources/images/Game_Grass4.png
+Type: AIR
+Damage: 0

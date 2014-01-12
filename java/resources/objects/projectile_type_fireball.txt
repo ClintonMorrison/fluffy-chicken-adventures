@@ -1,0 +1,24 @@
+Object: ProjectileType
+
+#  ANIMATIONS
+#Animation - Facing right
+Animation1: /resources/objects/animation_fireball_right.txt
+
+#Animation - Facing left
+Animation2: /resources/objects/animation_fireball_left.txt
+
+#Animation - Exploding/hit
+Animation3: /resources/objects/animation_fireball_right.txt
+
+
+#  SOUND EFFECTS
+#Sound1 - Launch
+Sound1: /resources/sounds/fireball.wav
+
+#Sound2 - Explode
+Sound2: /resources/sounds/bawk.wav
+
+#  STATS
+MaxSpeed: 0.75
+Damage: 400.0
+CoolOff: 1500

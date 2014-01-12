@@ -1,0 +1,45 @@
+Object: NPC
+
+#  GENERAL
+Name: CrabEnemey
+
+#  ANIMATIONS
+#Animation - Facing right
+Animation1: /resources/objects/characters/crab1_animation_walking.txt
+
+#Animation - Facing left
+Animation2: /resources/objects/characters/crab1_animation_walking.txt
+
+#Animation - Exploding
+Animation3: /resources/objects/characters/fluffy1_animation_explosion.txt
+
+#  SOUND EFFECTS
+#Sound1 - Idle
+Sound1: /resources/sounds/bawk.wav
+
+#Sound2 - Fall
+Sound2: /resources/sounds/walk.wav
+
+#Sound3 - Die
+Sound3: /resources/sounds/explode.wav
+
+#Sound4 - Take damage
+Sound4: /resources/sounds/hurt3.wav
+
+#Sound5 - Jump
+Sound5: /resources/sounds/jump.wav
+
+#  STATS
+MaxHealth: 50
+MaxSpeed: 0.35
+MaxForce: 30.0
+Mass: 100
+
+#  WEAPON
+ProjectileType: None
+DamageOnContact: 100
+ContactDamageCooldownTime: 500
+
+#AI
+AI_Type: AGGRESSIVE
+AI_Move_Time: 500

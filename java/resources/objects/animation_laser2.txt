@@ -1,0 +1,9 @@
+Object: Animation
+
+#General
+Loops: true
+
+#FRAMES
+#Frame1
+Frame1_Image: /resources/images/laser2.png
+Frame1_Time: 500

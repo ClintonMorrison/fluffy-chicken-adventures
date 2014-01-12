@@ -1,0 +1,48 @@
+Object: Player
+
+#  GENERAL
+Name: PLAYER (Fluffy Chicken)
+
+#  ANIMATIONS
+#Animation - Facing right
+Animation1: /resources/objects/characters/fluffy1_animation_facing_right.txt
+#Animation1: /resources/objects/animation_laser.txt
+
+#Animation - Facing left
+Animation2: /resources/objects/characters/fluffy1_animation_facing_left.txt
+
+#Animation - Exploding
+Animation3: /resources/objects/characters/fluffy1_animation_explosion.txt
+
+#Animation - Laser, facing right
+#Animation4: /resources/objects/characters/fluffy1_animation_facing_right.txt
+
+#Animation - Laser, facing left
+#Animation5: /resources/objects/characters/fluffy1_animation_facing_right.txt
+
+
+
+#  SOUND EFFECTS
+#Sound1 - Idle
+Sound1: /resources/sounds/bawk.wav
+
+#Sound2 - Fall
+Sound2: /resources/sounds/walk.wav
+
+#Sound3 - Die
+Sound3: /resources/sounds/stage_lose.wav
+
+#Sound4 - Take damage
+Sound4: /resources/sounds/hurt3.wav
+
+#Sound5 - Jump
+Sound5: /resources/sounds/jump.wav
+
+#  STATS
+MaxHealth: 1000
+MaxSpeed: 0.39
+MaxForce: 20.0
+Mass: 100
+
+#  WEAPON
+ProjectileType: resources/objects/projectile_type_laser1.txt

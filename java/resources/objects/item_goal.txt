@@ -1,0 +1,17 @@
+Object: Item
+
+#  GENERAL
+Name: coin
+
+#  ANIMATIONS
+#Animation - idle
+Animation1: /resources/objects/animation_goal.txt
+
+#  SOUND EFFECTS
+#Sound1 - collected
+Sound1: /resources/sounds/stage_complete.wav
+
+#  EFFECTS
+Magnitude: 0
+Duration: 0
+Type: GOAL

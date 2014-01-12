@@ -1,0 +1,21 @@
+Object: Menu
+
+#Note -> Position is percentage of window size (between 0 and 1)
+
+# Label1 - TITLE
+Label1_Text: Fluffy Chicken Adventures is Loading
+Label1_Font: /resources/objects/font_title.txt
+Label1_Position_X: 0.5
+Label1_Position_Y: 0.4
+
+# Label2 - Copyright credit
+Label2_Text: © 2013 Clinton Morrison
+Label2_Font: /resources/objects/font_copyright.txt
+Label2_Position_X: 0.9
+Label2_Position_Y: 0.97
+
+# Label3 - Please be patient...
+Label3_Text: Please Be Patient
+Label3_Font: /resources/objects/font_copyright.txt
+Label3_Position_X: 0.5
+Label3_Position_Y: 0.6

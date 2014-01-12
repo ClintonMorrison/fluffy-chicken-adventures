@@ -1,0 +1,15 @@
+Object: Menu
+
+#Note -> Position is percentage of window size (between 0 and 1)
+
+# Button1 - RETURN TO MAIN MENU
+Button1_Text: Menu
+Button1_Type: /resources/objects/button_small.txt
+Button1_Position_X: 0.97
+Button1_Position_Y: 0.95
+
+# Button2 - PAUSE THE GAME
+Button2_Text: Pause
+Button2_Type: /resources/objects/button_small.txt
+Button2_Position_X: 0.9
+Button2_Position_Y: 0.95

@@ -1,0 +1,7 @@
+Object: LabelType
+
+#Description
+FontName: Monospaced
+FontStyle: 1
+FontSize: 45
+FontColor: RED

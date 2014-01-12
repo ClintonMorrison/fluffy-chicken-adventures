@@ -1,0 +1,7 @@
+Object: Tile
+
+#Tile Description
+Name: dirt_tile
+Image: /resources/images/tile_snow.png
+Type: SOLID
+Damage: 0

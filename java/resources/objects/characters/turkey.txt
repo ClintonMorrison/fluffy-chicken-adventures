@@ -1,0 +1,45 @@
+Object: NPC
+
+#  GENERAL
+Name: TurkeyEnemy
+
+#  ANIMATIONS
+#Animation - Facing right
+Animation1: /resources/objects/characters/turkey_animation_facing_right.txt
+
+#Animation - Facing left
+Animation2: /resources/objects/characters/turkey_animation_facing_left.txt
+
+#Animation - Exploding
+Animation3: /resources/objects/characters/fluffy1_animation_explosion.txt
+
+#  SOUND EFFECTS
+#Sound1 - Idle
+Sound1: /resources/sounds/bawk.wav
+
+#Sound2 - Fall
+Sound2: /resources/sounds/walk.wav
+
+#Sound3 - Die
+Sound3: /resources/sounds/explode.wav
+
+#Sound4 - Take damage
+Sound4: /resources/sounds/hurt3.wav
+
+#Sound5 - Jump
+Sound5: /resources/sounds/jump.wav
+
+#  STATS
+MaxHealth: 100
+MaxSpeed: 0.20
+MaxForce: 10.0
+Mass: 100
+
+#  WEAPON
+ProjectileType: resources/objects/projectile_type_laser2.txt
+DamageOnContact: 0
+ContactDamageCooldownTime: 1000
+
+#AI
+AI_Type: PATROL
+AI_Move_Time: 1500

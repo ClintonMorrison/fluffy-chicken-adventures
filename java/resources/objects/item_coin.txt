@@ -1,0 +1,17 @@
+Object: Item
+
+#  GENERAL
+Name: coin
+
+#  ANIMATIONS
+#Animation - idle
+Animation1: /resources/objects/animation_coin.txt
+
+#  SOUND EFFECTS
+#Sound1 - collected
+Sound1: /resources/sounds/coin_collected.wav
+
+#  EFFECTS
+Magnitude: 1
+Duration: 0
+Type: COIN

@@ -1,0 +1,13 @@
+Object: StageLoader
+
+#LIST OF STAGES
+Stage1: /resources/objects/stages/stage1.txt
+Stage2: /resources/objects/stages/stage2.txt
+Stage3: /resources/objects/stages/stage3.txt
+Stage4: /resources/objects/stages/stage4.txt
+Stage5: /resources/objects/stages/stage5.txt
+Stage6: /resources/objects/stages/stage6.txt
+Stage7: /resources/objects/stages/stage7.txt
+Stage8: /resources/objects/stages/stage8.txt
+Stage9: /resources/objects/stages/stage9.txt
+Stage10: /resources/objects/stages/stage10.txt

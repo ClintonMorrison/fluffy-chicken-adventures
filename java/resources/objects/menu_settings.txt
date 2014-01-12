@@ -1,0 +1,36 @@
+Object: Menu
+
+#Note -> Position is percentage of window size (between 0 and 1)
+
+# Label1 - TITLE
+Label1_Text: SETTINGS
+Label1_Font: /resources/objects/font_title.txt
+Label1_Position_X: 0.5
+Label1_Position_Y: 0.1
+
+
+# Button1 - DIFFICULTY
+Button1_Text: Difficulty: Easy
+Button1_Type: /resources/objects/button1.txt
+Button1_Position_X: 0.5
+Button1_Position_Y: 0.3
+
+
+# Button1 - SOUND
+Button2_Text: Sound: On
+Button2_Type: /resources/objects/button1.txt
+Button2_Position_X: 0.5
+Button2_Position_Y: 0.5
+
+
+# Button3 - MUSIC
+Button3_Text: Music: On
+Button3_Type: /resources/objects/button1.txt
+Button3_Position_X: 0.5
+Button3_Position_Y: 0.7
+
+# Button4 - RETURN TO MAIN MENU
+Button4_Text: Back
+Button4_Type: /resources/objects/button1.txt
+Button4_Position_X: 0.8
+Button4_Position_Y: 0.9
