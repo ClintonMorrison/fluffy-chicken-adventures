@@ -25,5 +25,5 @@ Source code for the game can be found in the java/src folder.
 <h2> Resources </h2>
 <p>
 Game resources can be found in the java/src/resources folder.
-Note that the images, sounds, and artwork contained in the game were not created by me. Much of this content is lisneced under a Creative Commons lisence and requires that the author be attributed if used. In general, this content should not be reused without permission from the orginal content creator.
+Note that the images, sounds, and artwork contained in the game were not created by me. Much of this content is lisneced under a Creative Commons lisence and requires that the author be attributed if used. In general, the resources contained in this project should not be reused without permission from the orginal content creator.
 </p>
