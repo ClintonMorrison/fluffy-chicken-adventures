@@ -19,5 +19,11 @@ In this side scrolling action game you can help Binky the Fluffy Chicken save th
 
 <h2> Source Code </h2>
 <p>
-Source code for the game can be found in the java folder. 
+Source code for the game can be found in the java/src folder. 
+</p>
+
+<h2> Resources </h2>
+<p>
+Game resources can be found in the java/src/resources folder.
+Note that the images, sounds, and artwork contained in the game were not created by me. Much of this content is lisneced under a Creative Commons lisence and requires that the author be attributed if used. In general, this content should not be reused without permission from the orginal content creator.
 </p>
